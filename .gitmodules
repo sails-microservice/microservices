@@ -1,0 +1,3 @@
+[submodule "template-microservice"]
+	path = template-microservice
+	url = https://github.com/sails-microservice/template-microservice.git
